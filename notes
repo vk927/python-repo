@@ -1,0 +1,7 @@
+everything is object
+assignment attaches a name to an object
+assiging from 1 ref to another puts two name tags on the same obj
+grabage collector collects unreachable objects
+id() returns unique and constant identifier
+is --> used to det equality
+
